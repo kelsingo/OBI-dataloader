@@ -6,10 +6,7 @@
 
 Install Anaconda and Git as instructed in the [aisynphys installation documentation](https://aisynphys.readthedocs.io/en/latest/installation.html)
 
-After installing Miniconda, initialize Conda:
-
-```bash
-conda init
+After installing Miniconda, initialize Conda: `conda init`
 
 1. Download aisynphys repository 
 ```bash 
